@@ -1,0 +1,69 @@
+[{
+	"fase": 1,
+	"serie": "Agents of S.H.I.E.L.D.",
+	"img":"series/agents_of_shield.jpg"
+}, {
+	"fase": 1,
+	"serie": "Agent Carter",
+	"img":"series/agent_carter.jpg"
+}, {
+	"fase": 1,
+	"serie": "Daredevil",
+	"img":"series/daredevil.jpg"
+}, {
+	"fase": 2,
+	"serie": "Jessica Jones",
+        "img":"series/jessica_jones.jpg"
+}, {
+	"fase": 2,
+	"serie": "Luke Cage",
+	"img":"series/luke_cage.jpg"
+}, {
+	"fase": 2,
+	"serie": "Iron Fist",
+	"img":"series/iron_fist.jpg"
+}, {
+	"fase": 3,
+	"serie": "The Defenders",
+	"img":"series/defenders.jpg"
+}, {
+	"fase": 3,
+	"serie": "Inhumans",
+	"img":"series/inhumans.jpg"
+}, {
+	"fase": 3,
+	"serie": "The Punisher",
+	"img":"series/punisher.jpg"
+}, {
+	"fase": 3,
+	"serie": "Runaways",
+	"img":"series/runaways.jpg"
+}, {
+	"fase": 3,
+	"serie": "Cloak & Dagger",
+	"img":"series/cloak_and_dagger.jpg"
+}, {
+	"fase": 4,
+	"serie": "WandaVision",
+	"img":"series/wandavision.jpg"
+}, {
+	"fase": 4,
+	"serie": "The Falcon and the Winter Soldier",
+	"img":"series/falcon_and_the_winter_soldier.jpg"
+}, {
+	"fase": 4,
+	"serie": "Loki",
+	"img":"series/loki.jpg"
+}, {
+	"fase": 4,
+	"serie": "What If...?",
+	"img":"series/what_if_marvel.jpg"
+}, {
+	"fase": 4,
+	"serie": "Hawkeye",
+	"img":"series/hawkeye.jpg"
+}, {
+	"fase": 4,
+	"serie": "Moon Knight",
+	"img":"series/Moon_knight.jpg"
+}]

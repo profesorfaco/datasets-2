@@ -1,0 +1,109 @@
+[{
+	"fase": 1,
+	"pelicula": "Iron Man",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/bf/Iron_Man_1_Portada.png/revision/latest/scale-to-width-down/1000?cb=20191029194450&path-prefix=es"
+}, {
+	"fase": 1,
+	"pelicula": "The Incredible Hulk",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a1/The_Incredible_Hulk_-_Poster_Ingl%C3%A9s.png/revision/latest/scale-to-width-down/1000?cb=20191029194620&path-prefix=es"
+}, {
+	"fase": 1,
+	"pelicula": "Iron Man 2",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Iron_Man_2_Poster_Oficial_Internacional.png/revision/latest/scale-to-width-down/695?cb=20151006204823&path-prefix=es"
+}, {
+	"fase": 1,
+	"pelicula": "Thor",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a0/Thor_-_Portada_Ingl%C3%A9s.png/revision/latest/scale-to-width-down/1000?cb=20191029194705&path-prefix=es"
+}, {
+	"fase": 1,
+	"pelicula": "Captain America: The First Avenger",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e6/El_Primer_Vengador_Poster_5.png/revision/latest/scale-to-width-down/1000?cb=20151224142624&path-prefix=es"
+}, {
+	"fase": 1,
+	"pelicula": "The Avengers",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2b/The_Avengers_Poster.png/revision/latest/scale-to-width-down/1000?cb=20150610135853&path-prefix=es"
+}, {
+	"fase": 2,
+	"pelicula": "Iron Man 3",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1f/Iron_Man_3_Portada.png/revision/latest/scale-to-width-down/1000?cb=20191029194857&path-prefix=es"
+}, {
+	"fase": 2,
+	"pelicula": "Thor: The Dark World",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/25/Thor_-_The_Dark_World_poster.png/revision/latest/scale-to-width-down/1000?cb=20191029194909&path-prefix=es"
+}, {
+	"fase": 2,
+	"pelicula": "Captain America: The Winter Soldier",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/15/Captain_America_The_Winter_Soldier_Poster_3.png/revision/latest/scale-to-width-down/1000?cb=20191029194950&path-prefix=es"
+}, {
+	"fase": 2,
+	"pelicula": "Guardians of the Galaxy",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e1/Guardianes_de_la_Galaxia_Poster_en_Ingles.png/revision/latest/scale-to-width-down/1000?cb=20191029195008&path-prefix=es"
+}, {
+	"fase": 2,
+	"pelicula": "Avengers: Age of Ultron",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/54/Avengers_Age_Of_Ultron_Poster.png/revision/latest/scale-to-width-down/1000?cb=20191029195118&path-prefix=es"
+}, {
+	"fase": 2,
+	"pelicula": "Ant-Man",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/bb/Ant-Man_Poster.png/revision/latest/scale-to-width-down/1000?cb=20191029195134&path-prefix=es"
+}, {
+	"fase": 3,
+	"pelicula": "Captain America: Civil War",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/bf/Captain_America_Civil_War_-_Poster_definitivo.png/revision/latest/scale-to-width-down/1000?cb=20191029195149&path-prefix=es"
+}, {
+	"fase": 3,
+	"pelicula": "Doctor Strange",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/64/Doctor_Strange_-_Poster_2.png/revision/latest/scale-to-width-down/1000?cb=20191029195245&path-prefix=es"
+}, {
+	"fase": 3,
+	"pelicula": "Guardians of the Galaxy Vol. 2",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4b/GOTG_Vol_2_-_Poster.png/revision/latest/scale-to-width-down/1000?cb=20191029195255&path-prefix=es"
+}, {
+	"fase": 3,
+	"pelicula": "Spider-Man: Homecoming",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/43/Spider-Man_Homecoming_-_Poster_INT_2.png/revision/latest/scale-to-width-down/1000?cb=20191029195957&path-prefix=es"
+}, {
+	"fase": 3,
+	"pelicula": "Thor: Ragnarok",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d5/Thor_Ragnarok_-_P%C3%B3ster_SDCC.png/revision/latest/scale-to-width-down/1000?cb=20191029195459&path-prefix=es"
+}, {
+	"fase": 3,
+	"pelicula": "Black Panther",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/87/Black_Panther_Poster_Octubre_2017.png/revision/latest/scale-to-width-down/1000?cb=20171017021954&path-prefix=es"
+}, {
+	"fase": 3,
+	"pelicula": "Avengers: Infinity War",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/94/Avengers_Infinity_War_-_P%C3%B3ster_oficial.png/revision/latest/scale-to-width-down/1000?cb=20191029195530&path-prefix=es"
+}, {
+	"fase": 3,
+	"pelicula": "Ant-Man and the Wasp",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/70/A_%26_TW_poster_1.png/revision/latest/scale-to-width-down/1000?cb=20191029195613&path-prefix=es"
+}, {
+	"fase": 3,
+	"pelicula": "Captain Marvel",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/66/Captain_Marvel_-_P%C3%B3ster_Diciembre_2018.png/revision/latest/scale-to-width-down/1000?cb=20191029195629&path-prefix=es"
+}, {
+	"fase": 3,
+	"pelicula": "Avengers: Endgame",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9b/Avenger_Endgame_Poster_Oficial.png/revision/latest/scale-to-width-down/1000?cb=20190326185910&path-prefix=es"
+}, {
+	"fase": 3,
+	"pelicula": "Spider-Man: Far From Home",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/fc/Spider_Man_Far_From_Home_-_P%C3%B3ster_EEUU.png/revision/latest/scale-to-width-down/1000?cb=20190522204227&path-prefix=es"
+}, {
+	"fase": 4,
+	"pelicula": "Black Widow",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e1/Black_Widow_-_Nuevo_P%C3%B3ster.png/revision/latest/scale-to-width-down/864?cb=20210629192802&path-prefix=es"
+}, {
+	"fase": 4,
+	"pelicula": "Shang-Chi and the Legend of the Ten Rings",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/10/Shang-Chi_-_Nuevo_P%C3%B3ster.png/revision/latest/scale-to-width-down/864?cb=20210730153945&path-prefix=es"
+}, {
+	"fase": 4,
+	"pelicula": "Eternals",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/22/Eternals_-_Nuevo_P%C3%B3ster.png/revision/latest/scale-to-width-down/1000?cb=20210819130719&path-prefix=es"
+}, {
+	"fase": 4,
+	"pelicula": "Spider-Man: No Way Home",
+	"img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/df/Spider-Man_No_Way_Home_Poster.png/revision/latest/scale-to-width-down/928?cb=20211201150655&path-prefix=es"
+}]
